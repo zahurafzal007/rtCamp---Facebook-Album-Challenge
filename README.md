@@ -46,7 +46,7 @@ During the time that the albums are moved, the user will be shown a nice pre-loa
 
 ## How-To-Use : 
 
-<b>Using the Facebook Graph API SDK for PHP :
+<b>Using the Facebook Graph API SDK for PHP : </b>
 
 The Facebook SDK for PHP provides developers with a modern, native library for accessing the Graph API and taking advantage of Facebook Login. Usually this means you're developing with PHP for a Facebook Canvas app, building your own website, or adding server-side functionality to an app. 
 
