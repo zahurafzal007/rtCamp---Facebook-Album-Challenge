@@ -85,7 +85,7 @@ $loginUrl = $helper->getLoginUrl('https://Your_Redirection_URL/Your_CallBack_Pag
 You can always search the web and read the documentation of the API in aiding to implement the functionalites you want as per your need.
 
 
-<b>Using the Google Drive REST API SDK for PHP :
+<b>Using the Google Drive REST API SDK for PHP :  </b>
   
 The Google Drive api for php client gives you a secure way to interact with google drive, letting you create,delete folders and uploading files to folders.More information and examples: https://developers.google.com/drive/v2/web/quickstart/php  
 
